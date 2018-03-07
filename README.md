@@ -1,4 +1,4 @@
-# README Boilerplate
+# README
 
 A simple library to create 'jauge' chart.
 
